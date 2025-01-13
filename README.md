@@ -4,8 +4,10 @@
 프로젝트, 기술, 스마트 제조 데이터, AAS 표준 등에 대해 궁금한 점이 있다면 자유롭게 질문하세요!
 
 ## 📝 질문 방법
-1. 상단의 **Issues** 탭으로 이동합니다.
-2. **New Issue** 버튼을 클릭합니다.
+1. 상단의 ![image](https://github.com/user-attachments/assets/af601651-cfa6-4d78-946f-4ecf0bebb361)
+ 탭으로 이동합니다.
+2. ![image](https://github.com/user-attachments/assets/b80c08cc-9bd1-4981-a972-a33e8ff01095)
+ 버튼을 클릭합니다.
 3. 아래 형식에 따라 질문을 작성해주세요:
    - **제목**: 질문 요약 (예: "AAS 데이터 관리에 대한 질문")
    - **본문**:
